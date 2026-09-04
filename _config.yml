@@ -3,9 +3,10 @@ baseurl: ""
 url: "https://crodevs.github.io" 
 port: 4000
 description: >|
+  Carson Rohan's Blog
   Bits from a software engineer's brain
   
-  Casron Authors Software; Runs On Noodles
+  CASRON: Casron Authors Software; Runs On Noodles
 github_username:  casronware
 repository: casronware/casronware.github.io
 email: carson.rohan@gmail.com
