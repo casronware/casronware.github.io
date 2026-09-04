@@ -1,11 +1,13 @@
-title: Crodev's Bits
+title: CasronWare
 baseurl: "" 
 url: "https://crodevs.github.io" 
 port: 4000
 description: >- 
-  bits from a software developer's brain
-github_username:  crodevs
-repository: crodevs/crodevs.github.io
+  Bits from a software engineer's brain
+  
+  Casron Authors Software; Runs On Noodles
+github_username:  casronware
+repository: casronware/casronware.github.io
 email: carson.rohan@gmail.com
 include: [_pages]
 
